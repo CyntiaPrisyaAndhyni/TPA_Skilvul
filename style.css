@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+*{
+    font-family: 'Rubik', sans-serif;
+}
+
+.container {
+    text-align: center;
+    padding: 10px 10px 30px 10px;
+    margin: 100px 150px 100px 150px;
+    border-radius: 20px;
+    background-color: rgb(18, 236, 135);
+    outline: dotted green;
+}
+
+button{
+    padding: 5px;
+    background-color: rgb(94, 223, 101);
+    border-radius: 5px;
+}
+
+input{
+    border-radius: 5px;
+    background-color:rgb(153, 241, 157);
+}
